@@ -1,3 +1,3 @@
 # DEALSD
-Official implementation of DEALSD: Deep Edge Assisted Line Segment Detector
+Official implementation of DEALSD: Deep Edge Assisted Line Segment Detector \n
 The source code will be released soon(under external review by the journal)!
